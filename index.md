@@ -6,3 +6,6 @@ Hermiona is a character of the Harry Potter book. She is very smart and a very n
 * smart
 * nice
 * beautiful
+
+> I don't know what she sais 
+> or I rather don't want to search for this.
